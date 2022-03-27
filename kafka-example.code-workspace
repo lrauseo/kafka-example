@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "kafta-producer"
+		},
+		{
+			"name": "kafka-consumer",
+			"path": "kafka-consumer"
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "automatic"
+	}
+}
